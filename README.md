@@ -3,8 +3,6 @@
 𝙈𝙮𝘽𝙖𝙨𝙚𝙘𝙖𝙢𝙥
 ```
 
-Demo Link: "https://basecamp1.herokuapp.com"
-
 ## Task
 TODO - Create:  User Registration
                 Session
